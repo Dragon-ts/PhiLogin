@@ -4,7 +4,7 @@ SessionToken By Web or QRcode
 # Introduction
 A HTTP Server for API to Login Phigros By Taptap
 
-Python verion by @Dragon-ts
+Python verion by [@Dragon_ts](https://github.com/dragon-ts)
 
 # Use
 `./PhiLogin 127.0.0.1:3000`
